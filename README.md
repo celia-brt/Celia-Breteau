@@ -11,8 +11,20 @@ and making the data tell that story.
 
 Now I'm going deeper into data and open to wherever that takes me.
 
-## Stack
-SQL · Power BI · Google Analytics 4 · HubSpot · Excel
+---
+### 🔭 What I'm currently working on
 
-## Currently learning
-PostgreSQL · Python · Data storytelling
+**[Canva Reviews Analysis](https://github.com/celia-brt/canva-reviews-analysis)**
+— Analysing 50,000 Google Play reviews to understand where Canva 
+fails its users. Python · SQLite · Looker Studio.
+
+**[Sydney Restaurant SQL](https://github.com/celia-brt/sydney-restaurants-sql)**
+— Where should you open a restaurant in Sydney? 
+Google Maps API · SQL · Tableau Public.
+
+---
+### 🛠️ Stack
+`SQL` `Python` `Google Analytics 4` `HubSpot` `Excel`
+
+### 📊 Data Viz
+`Looker Studio` `Tableau Public`
