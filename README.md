@@ -28,3 +28,9 @@ Google Maps API · SQL · Tableau Public.
 
 ### 📊 Data Viz
 `Looker Studio` `Tableau Public`
+
+---
+### Contact
+📩 celia.breteau1@gmail.com 📍Sydney
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Celia_BRETEAU-306EA8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-breteau)
