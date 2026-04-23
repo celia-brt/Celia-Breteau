@@ -16,7 +16,7 @@ Now I'm going deeper into data and open to wherever that takes me.
 
 **[Canva Reviews Analysis](https://github.com/celia-brt/canva-reviews-analysis)**
 — Analysing 50,000 Google Play reviews to understand where Canva 
-fails its users. Python · SQLite · Looker Studio.
+fails its users. Python · SQLite · Data Studio.
 
 **[Sydney Restaurant SQL](https://github.com/celia-brt/sydney-restaurants-sql)**
 — Where should you open a restaurant in Sydney? 
@@ -27,7 +27,7 @@ Google Maps API · SQL · Tableau Public.
 `SQL` `Python` `Google Analytics 4` `HubSpot` `Excel`
 
 ### 📊 Data Viz
-`Looker Studio` `Tableau Public`
+`Data Studio` `Tableau Public` `Power BI`
 
 ---
 ### Contact
